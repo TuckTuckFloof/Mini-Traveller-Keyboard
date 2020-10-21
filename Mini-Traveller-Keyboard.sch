@@ -383,7 +383,7 @@ D+
 Text GLabel 1150 2300 3    50   Input ~ 0
 D-
 $Comp
-L Connector:USB_C_Receptacle_USB2.0 P1
+L Mini-Traveller-Keyboard-rescue:USB_C_Receptacle_USB2.0-Connector P1
 U 1 1 5F7D3E13
 P -850 1800
 F 0 "P1" H -743 2667 50  0000 C CNN
@@ -1957,4 +1957,28 @@ Text GLabel 4850 3100 0    50   Input ~ 0
 Row2
 Text GLabel 4850 3750 0    50   Input ~ 0
 Row3
+Text GLabel 3400 2800 2    50   Input ~ 0
+Col0
+Text GLabel 3400 3000 2    50   Input ~ 0
+Col1
+Text GLabel 3400 3100 2    50   Input ~ 0
+Col2
+Text GLabel 3400 1600 2    50   Input ~ 0
+Col3
+Text GLabel 3400 1700 2    50   Input ~ 0
+Col4
+Text GLabel 3400 1800 2    50   Input ~ 0
+Col5
+Text GLabel 3400 3700 2    50   Input ~ 0
+Col7
+Text GLabel 3400 3800 2    50   Input ~ 0
+Col8
+Text GLabel 3400 3900 2    50   Input ~ 0
+Col9
+Text GLabel 3400 1500 2    50   Input ~ 0
+Col11
+Text GLabel 3400 4100 2    50   Input ~ 0
+Col10
+Text GLabel 3400 3600 2    50   Input ~ 0
+Col6
 $EndSCHEMATC
