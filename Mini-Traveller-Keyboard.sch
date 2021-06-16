@@ -502,7 +502,7 @@ Wire Wire Line
 Wire Wire Line
 	-250 2200 1700 2200
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX1
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX1
 U 1 1 5F822F44
 P 5300 1450
 F 0 "MX1" H 5333 1673 60  0000 C CNN
@@ -526,7 +526,7 @@ $EndComp
 Wire Wire Line
 	5100 1600 5250 1600
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX5
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX5
 U 1 1 5F828EE1
 P 5800 1450
 F 0 "MX5" H 5833 1673 60  0000 C CNN
@@ -550,7 +550,7 @@ $EndComp
 Wire Wire Line
 	5600 1600 5750 1600
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX9
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX9
 U 1 1 5F82F6DD
 P 6300 1450
 F 0 "MX9" H 6333 1673 60  0000 C CNN
@@ -574,7 +574,7 @@ $EndComp
 Wire Wire Line
 	6100 1600 6250 1600
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX13
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX13
 U 1 1 5F82F6EA
 P 6800 1450
 F 0 "MX13" H 6833 1673 60  0000 C CNN
@@ -598,7 +598,7 @@ $EndComp
 Wire Wire Line
 	6600 1600 6750 1600
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX17
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX17
 U 1 1 5F83395C
 P 7300 1450
 F 0 "MX17" H 7333 1673 60  0000 C CNN
@@ -622,7 +622,7 @@ $EndComp
 Wire Wire Line
 	7100 1600 7250 1600
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX21
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX21
 U 1 1 5F833969
 P 7800 1450
 F 0 "MX21" H 7833 1673 60  0000 C CNN
@@ -646,7 +646,7 @@ $EndComp
 Wire Wire Line
 	7600 1600 7750 1600
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX25
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX25
 U 1 1 5F833976
 P 8300 1450
 F 0 "MX25" H 8333 1673 60  0000 C CNN
@@ -670,7 +670,7 @@ $EndComp
 Wire Wire Line
 	8100 1600 8250 1600
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX29
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX29
 U 1 1 5F833983
 P 8800 1450
 F 0 "MX29" H 8833 1673 60  0000 C CNN
@@ -694,7 +694,7 @@ $EndComp
 Wire Wire Line
 	8600 1600 8750 1600
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX33
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX33
 U 1 1 5F83810B
 P 9300 1450
 F 0 "MX33" H 9333 1673 60  0000 C CNN
@@ -718,7 +718,7 @@ $EndComp
 Wire Wire Line
 	9100 1600 9250 1600
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX37
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX37
 U 1 1 5F838118
 P 9800 1450
 F 0 "MX37" H 9833 1673 60  0000 C CNN
@@ -742,7 +742,7 @@ $EndComp
 Wire Wire Line
 	9600 1600 9750 1600
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX41
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX41
 U 1 1 5F838125
 P 10300 1450
 F 0 "MX41" H 10333 1673 60  0000 C CNN
@@ -766,7 +766,7 @@ $EndComp
 Wire Wire Line
 	10100 1600 10250 1600
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX45
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX45
 U 1 1 5F838132
 P 10800 1450
 F 0 "MX45" H 10833 1673 60  0000 C CNN
@@ -790,7 +790,7 @@ $EndComp
 Wire Wire Line
 	10600 1600 10750 1600
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX2
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX2
 U 1 1 5F866319
 P 5300 2100
 F 0 "MX2" H 5333 2323 60  0000 C CNN
@@ -814,7 +814,7 @@ $EndComp
 Wire Wire Line
 	5100 2250 5250 2250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX6
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX6
 U 1 1 5F866326
 P 5800 2100
 F 0 "MX6" H 5833 2323 60  0000 C CNN
@@ -838,7 +838,7 @@ $EndComp
 Wire Wire Line
 	5600 2250 5750 2250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX10
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX10
 U 1 1 5F866333
 P 6300 2100
 F 0 "MX10" H 6333 2323 60  0000 C CNN
@@ -862,7 +862,7 @@ $EndComp
 Wire Wire Line
 	6100 2250 6250 2250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX14
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX14
 U 1 1 5F866340
 P 6800 2100
 F 0 "MX14" H 6833 2323 60  0000 C CNN
@@ -886,7 +886,7 @@ $EndComp
 Wire Wire Line
 	6600 2250 6750 2250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX18
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX18
 U 1 1 5F86634D
 P 7300 2100
 F 0 "MX18" H 7333 2323 60  0000 C CNN
@@ -910,7 +910,7 @@ $EndComp
 Wire Wire Line
 	7100 2250 7250 2250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX22
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX22
 U 1 1 5F86635A
 P 7800 2100
 F 0 "MX22" H 7833 2323 60  0000 C CNN
@@ -934,7 +934,7 @@ $EndComp
 Wire Wire Line
 	7600 2250 7750 2250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX26
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX26
 U 1 1 5F866367
 P 8300 2100
 F 0 "MX26" H 8333 2323 60  0000 C CNN
@@ -958,7 +958,7 @@ $EndComp
 Wire Wire Line
 	8100 2250 8250 2250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX30
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX30
 U 1 1 5F866374
 P 8800 2100
 F 0 "MX30" H 8833 2323 60  0000 C CNN
@@ -982,7 +982,7 @@ $EndComp
 Wire Wire Line
 	8600 2250 8750 2250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX34
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX34
 U 1 1 5F866381
 P 9300 2100
 F 0 "MX34" H 9333 2323 60  0000 C CNN
@@ -1006,7 +1006,7 @@ $EndComp
 Wire Wire Line
 	9100 2250 9250 2250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX38
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX38
 U 1 1 5F86638E
 P 9800 2100
 F 0 "MX38" H 9833 2323 60  0000 C CNN
@@ -1030,7 +1030,7 @@ $EndComp
 Wire Wire Line
 	9600 2250 9750 2250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX42
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX42
 U 1 1 5F86639B
 P 10300 2100
 F 0 "MX42" H 10333 2323 60  0000 C CNN
@@ -1054,7 +1054,7 @@ $EndComp
 Wire Wire Line
 	10100 2250 10250 2250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX46
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX46
 U 1 1 5F8663A8
 P 10800 2100
 F 0 "MX46" H 10833 2323 60  0000 C CNN
@@ -1078,7 +1078,7 @@ $EndComp
 Wire Wire Line
 	10600 2250 10750 2250
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX3
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX3
 U 1 1 5F8805BC
 P 5300 2750
 F 0 "MX3" H 5333 2973 60  0000 C CNN
@@ -1102,7 +1102,7 @@ $EndComp
 Wire Wire Line
 	5100 2900 5250 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX7
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX7
 U 1 1 5F8805C9
 P 5800 2750
 F 0 "MX7" H 5833 2973 60  0000 C CNN
@@ -1126,7 +1126,7 @@ $EndComp
 Wire Wire Line
 	5600 2900 5750 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX11
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX11
 U 1 1 5F8805D6
 P 6300 2750
 F 0 "MX11" H 6333 2973 60  0000 C CNN
@@ -1150,7 +1150,7 @@ $EndComp
 Wire Wire Line
 	6100 2900 6250 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX15
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX15
 U 1 1 5F8805E3
 P 6800 2750
 F 0 "MX15" H 6833 2973 60  0000 C CNN
@@ -1174,7 +1174,7 @@ $EndComp
 Wire Wire Line
 	6600 2900 6750 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX19
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX19
 U 1 1 5F8805F0
 P 7300 2750
 F 0 "MX19" H 7333 2973 60  0000 C CNN
@@ -1198,7 +1198,7 @@ $EndComp
 Wire Wire Line
 	7100 2900 7250 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX23
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX23
 U 1 1 5F8805FD
 P 7800 2750
 F 0 "MX23" H 7833 2973 60  0000 C CNN
@@ -1222,7 +1222,7 @@ $EndComp
 Wire Wire Line
 	7600 2900 7750 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX27
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX27
 U 1 1 5F88060A
 P 8300 2750
 F 0 "MX27" H 8333 2973 60  0000 C CNN
@@ -1246,7 +1246,7 @@ $EndComp
 Wire Wire Line
 	8100 2900 8250 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX31
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX31
 U 1 1 5F880617
 P 8800 2750
 F 0 "MX31" H 8833 2973 60  0000 C CNN
@@ -1270,7 +1270,7 @@ $EndComp
 Wire Wire Line
 	8600 2900 8750 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX35
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX35
 U 1 1 5F880624
 P 9300 2750
 F 0 "MX35" H 9333 2973 60  0000 C CNN
@@ -1294,7 +1294,7 @@ $EndComp
 Wire Wire Line
 	9100 2900 9250 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX39
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX39
 U 1 1 5F880631
 P 9800 2750
 F 0 "MX39" H 9833 2973 60  0000 C CNN
@@ -1318,7 +1318,7 @@ $EndComp
 Wire Wire Line
 	9600 2900 9750 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX43
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX43
 U 1 1 5F88063E
 P 10300 2750
 F 0 "MX43" H 10333 2973 60  0000 C CNN
@@ -1342,7 +1342,7 @@ $EndComp
 Wire Wire Line
 	10100 2900 10250 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX47
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX47
 U 1 1 5F88064B
 P 10800 2750
 F 0 "MX47" H 10833 2973 60  0000 C CNN
@@ -1366,7 +1366,7 @@ $EndComp
 Wire Wire Line
 	10600 2900 10750 2900
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX4
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX4
 U 1 1 5F88FC81
 P 5300 3400
 F 0 "MX4" H 5333 3623 60  0000 C CNN
@@ -1390,7 +1390,7 @@ $EndComp
 Wire Wire Line
 	5100 3550 5250 3550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX8
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX8
 U 1 1 5F88FC8E
 P 5800 3400
 F 0 "MX8" H 5833 3623 60  0000 C CNN
@@ -1414,7 +1414,7 @@ $EndComp
 Wire Wire Line
 	5600 3550 5750 3550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX12
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX12
 U 1 1 5F88FC9B
 P 6300 3400
 F 0 "MX12" H 6333 3623 60  0000 C CNN
@@ -1438,7 +1438,7 @@ $EndComp
 Wire Wire Line
 	6100 3550 6250 3550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX16
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX16
 U 1 1 5F88FCA8
 P 6800 3400
 F 0 "MX16" H 6833 3623 60  0000 C CNN
@@ -1462,7 +1462,7 @@ $EndComp
 Wire Wire Line
 	6600 3550 6750 3550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX20
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX20
 U 1 1 5F88FCB5
 P 7300 3400
 F 0 "MX20" H 7333 3623 60  0000 C CNN
@@ -1486,7 +1486,7 @@ $EndComp
 Wire Wire Line
 	7100 3550 7250 3550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX24
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX24
 U 1 1 5F88FCC2
 P 7800 3400
 F 0 "MX24" H 7833 3623 60  0000 C CNN
@@ -1510,7 +1510,7 @@ $EndComp
 Wire Wire Line
 	7600 3550 7750 3550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX28
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX28
 U 1 1 5F88FCCF
 P 8300 3400
 F 0 "MX28" H 8333 3623 60  0000 C CNN
@@ -1534,7 +1534,7 @@ $EndComp
 Wire Wire Line
 	8100 3550 8250 3550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX32
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX32
 U 1 1 5F88FCDC
 P 8800 3400
 F 0 "MX32" H 8833 3623 60  0000 C CNN
@@ -1558,7 +1558,7 @@ $EndComp
 Wire Wire Line
 	8600 3550 8750 3550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX36
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX36
 U 1 1 5F88FCE9
 P 9300 3400
 F 0 "MX36" H 9333 3623 60  0000 C CNN
@@ -1582,7 +1582,7 @@ $EndComp
 Wire Wire Line
 	9100 3550 9250 3550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX40
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX40
 U 1 1 5F88FCF6
 P 9800 3400
 F 0 "MX40" H 9833 3623 60  0000 C CNN
@@ -1606,7 +1606,7 @@ $EndComp
 Wire Wire Line
 	9600 3550 9750 3550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX44
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX44
 U 1 1 5F88FD03
 P 10300 3400
 F 0 "MX44" H 10333 3623 60  0000 C CNN
@@ -1630,7 +1630,7 @@ $EndComp
 Wire Wire Line
 	10100 3550 10250 3550
 $Comp
-L MX_Alps_Hybrid:MX-NoLED MX48
+L Mini-Traveller-Keyboard-rescue:MX-NoLED-MX_Alps_Hybrid MX48
 U 1 1 5F88FD10
 P 10800 3400
 F 0 "MX48" H 10833 3623 60  0000 C CNN
@@ -1981,4 +1981,85 @@ Text GLabel 3400 4100 2    50   Input ~ 0
 Col10
 Text GLabel 3400 3600 2    50   Input ~ 0
 Col6
+$Comp
+L LED:WS2812B D51
+U 1 1 5FA23891
+P 7400 4900
+F 0 "D51" H 7744 4946 50  0000 L CNN
+F 1 "WS2812B" H 7744 4855 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 7450 4600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 7500 4525 50  0001 L TNN
+	1    7400 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D50
+U 1 1 5FA26D5C
+P 6450 4900
+F 0 "D50" H 6794 4946 50  0000 L CNN
+F 1 "WS2812B" H 6794 4855 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 6500 4600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6550 4525 50  0001 L TNN
+	1    6450 4900
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:WS2812B D49
+U 1 1 5FA335D0
+P 5500 4900
+F 0 "D49" H 5844 4946 50  0000 L CNN
+F 1 "WS2812B" H 5844 4855 50  0000 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 5550 4600 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5600 4525 50  0001 L TNN
+	1    5500 4900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7100 4900 6750 4900
+Wire Wire Line
+	6150 4900 5800 4900
+$Comp
+L power:GND #PWR0114
+U 1 1 5FA579A8
+P 5500 5200
+F 0 "#PWR0114" H 5500 4950 50  0001 C CNN
+F 1 "GND" H 5505 5027 50  0000 C CNN
+F 2 "" H 5500 5200 50  0001 C CNN
+F 3 "" H 5500 5200 50  0001 C CNN
+	1    5500 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0115
+U 1 1 5FA58F2F
+P 6450 5200
+F 0 "#PWR0115" H 6450 4950 50  0001 C CNN
+F 1 "GND" H 6455 5027 50  0000 C CNN
+F 2 "" H 6450 5200 50  0001 C CNN
+F 3 "" H 6450 5200 50  0001 C CNN
+	1    6450 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0116
+U 1 1 5FA5976D
+P 7400 5200
+F 0 "#PWR0116" H 7400 4950 50  0001 C CNN
+F 1 "GND" H 7405 5027 50  0000 C CNN
+F 2 "" H 7400 5200 50  0001 C CNN
+F 3 "" H 7400 5200 50  0001 C CNN
+	1    7400 5200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0117
+U 1 1 5FA5A4AF
+P 7400 4600
+F 0 "#PWR0117" H 7400 4450 50  0001 C CNN
+F 1 "+5V" H 7415 4773 50  0000 C CNN
+F 2 "" H 7400 4600 50  0001 C CNN
+F 3 "" H 7400 4600 50  0001 C CNN
+	1    7400 4600
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
